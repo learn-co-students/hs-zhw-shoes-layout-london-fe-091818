@@ -1,3 +1,44 @@
+
+.fb {
+  column-count: 2;
+  column-fill:auto;
+  display:table;
+  
+}
+.grass { 
+  float: left;
+  margin-right:2%;
+  width:66%;
+  padding-bottom: 0%;
+  margin-bottom: 2%;
+  overflow: auto;
+  
+}
+
+.archive {
+  float: right;
+  width: 32%;
+  overflow: auto;
+  margin-bottom: 2%;
+  padding-bottom:0.5%;
+  
+}
+
+.deal {
+  column-count: 3;
+  column-width: 33.33%;
+  column-fill:auto;
+}
+  
+#details {
+  column-count: 3;
+  column-width: 33.33%;
+  column-fill:auto;
+   width: 960px;
+  margin: 0 auto;
+}
+
+
 /********** Fixes **********/
 
 * {
