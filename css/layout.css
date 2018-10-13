@@ -24,4 +24,36 @@
 
 /* Positioning Classes */
 
+#details {
+  column-count: 3;
+  column-gap: 20px;
+  column-width: 50px;
+  width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#med {
+  width: 30%;
+  float: right;
+  padding: 10px;
+  margin: 8px;
+  height: 565px;
+}
+
+#large {
+  width: 60%;
+  float: left;
+  padding: 10px;
+  margin: 8px;
+}
+
+#small {
+  width: 30%;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+
 
